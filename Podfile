@@ -7,7 +7,9 @@ target 'ios-base' do
   pod 'Moya', '~> 13.0.1'
   pod 'IQKeyboardManagerSwift', '~> 6.2.1'
   pod 'RSFontSizes', '~> 1.0.2'
-  pod 'FirebaseCore', '~> 6.0.3'
+  pod 'Firebase', '~> 6.3.0'
+  pod 'FirebaseAnalytics', '~> 6.0.2'
+  pod 'FirebaseAuth', '~> 6.1.2'
   pod 'Fabric', '~> 1.10.2'
   pod 'Crashlytics', '~> 3.13.2'
 
