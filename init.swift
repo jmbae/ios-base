@@ -2,7 +2,7 @@ import Foundation
 
 let baseProjectName = "ios-base"
 var projectName = "RSDemoProject"
-let baseDomain = "com.rootstrap"
+let baseDomain = "kr.liv"
 var bundleDomain = baseDomain
 
 let whiteList: [String] = [".DS_Store", "UserInterfaceState.xcuserstate", "init.swift"]
